@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/my-ecommerce/static/js/main.6cb709f3.js",
+    "static/media/undraw_informed_decision_p2lh.svg": "/my-ecommerce/static/media/undraw_informed_decision_p2lh.f333f3db2042ed379574ba3a22719d89.svg",
+    "static/media/undraw_web_shopping_re_owap.svg": "/my-ecommerce/static/media/undraw_web_shopping_re_owap.3d37667de574c4c4efbac09d46ccaa20.svg",
+    "static/media/undraw_sign_in_re_o58h.svg": "/my-ecommerce/static/media/undraw_sign_in_re_o58h.565f26a513923d4780560d431218aa10.svg",
+    "index.html": "/my-ecommerce/index.html",
+    "main.6cb709f3.js.map": "/my-ecommerce/static/js/main.6cb709f3.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6cb709f3.js"
+  ]
+}
